@@ -30,8 +30,4 @@ This is a simple Banking Operations Project(Web Application) where customers can
 ## Usage
 Import this project by a Github Desktop(click here to install) or by downloading the Zip file . If you downloaded the zip file then you need to unzip or extract it and import this in eclipse(file-->import-->select the project) change the database configuration in hibernate.cfg file (Driver,Dialect,username and password).That's all you can run this project and see the results.
 
-## Note :
-* you can install eclipse IDE here
-* You need to run this project on server. Please refer this for downloading and attaching the tomcat server to your project
-## Bug / Feature Request:
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result.
+
